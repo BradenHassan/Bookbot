@@ -1,2 +1,3 @@
-# Bookbot
-boot.dev bookbot course repo
+# bookbot
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
